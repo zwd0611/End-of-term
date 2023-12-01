@@ -36,7 +36,7 @@ A:hover {
 
 #page_header {
   height: 140px;
-  background: #515230 url('../img/header.jpg') top left no-repeat;
+  background: #515230 url('../img/logo.png') top left no-repeat;
 }  
 
 #page_header h1 {
@@ -182,6 +182,7 @@ color: #fff;
 .spacer {
   margin:0px;padding:0px;height:10px;clear:both;
 }
+
 
   
  
